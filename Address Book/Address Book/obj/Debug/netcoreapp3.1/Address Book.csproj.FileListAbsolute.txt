@@ -1,0 +1,5 @@
+C:\Users\dell\Lectures\New Contact\Address Book\Address Book\obj\Debug\netcoreapp3.1\Address Book.csproj.AssemblyReference.cache
+C:\Users\dell\Lectures\New Contact\Address Book\Address Book\obj\Debug\netcoreapp3.1\Address Book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Lectures\New Contact\Address Book\Address Book\obj\Debug\netcoreapp3.1\Address Book.AssemblyInfoInputs.cache
+C:\Users\dell\Lectures\New Contact\Address Book\Address Book\obj\Debug\netcoreapp3.1\Address Book.AssemblyInfo.cs
+C:\Users\dell\Lectures\New Contact\Address Book\Address Book\obj\Debug\netcoreapp3.1\Address Book.csproj.CoreCompileInputs.cache
